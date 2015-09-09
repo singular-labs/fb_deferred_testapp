@@ -1,0 +1,2 @@
+include ':facebook', ':app'
+project(':facebook').projectDir = new File('libs/facebook')
